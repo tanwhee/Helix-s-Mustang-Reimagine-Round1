@@ -43,4 +43,4 @@ Welcome to our project for the Re-imagine Hackathon by Sheryians Coding School! 
 
 ## Technologies Used
 
-- Frontend: HTML5, CSS3, JavaScript
+- Frontend: HTML5, CSS3, Tailwind CSS, JavaScript
